@@ -1,10 +1,3 @@
-<style>
-  /* Remove underline from links */
-  a {
-    text-decoration: none;
-  }
-</style>
-
 <h2 align="left">👋 Hello there! I'm Vishal, a passionate Web Developer with a love for coding and problem-solving.<br><br>💻 I enjoy working on a diverse range of projects, from web development to data analysis and machine learning, with a particular focus on solving real-world problems and automating tasks to improve efficiency.<br><br>🌱 Constantly learning and exploring new technologies to enhance my skills and broaden my horizons.<br><br>🚀 I believe in the power of collaboration and open-source contributions to make a positive impact on the world.<br><br>📫 Feel free to connect with me on LinkedIn/Twitter/other social media.</h2>
 
 ###
@@ -26,8 +19,8 @@
 <div align="left">
   <a href="#"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  </a>
   <img width="12" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
