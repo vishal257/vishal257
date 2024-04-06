@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello there! I'm Vishal, a passionate Web Developer with a love for coding and problem-solving.<br><br>💻 I enjoy working on a diverse range of projects, from web development to data analysis and machine learning, with a particular focus on solving real-world problems and automating tasks to improve efficiency.<br><br>🌱 Constantly learning and exploring new technologies to enhance my skills and broaden my horizons.<br><br>🚀 I believe in the power of collaboration and open-source contributions to make a positive impact on the world.<br><br>📫 Feel free to connect with me on LinkedIn/Twitter/other social media.</h2>
+<h2 align="left">👋 Hello there! I'm Vishal, a passionate Web Developer with a love for coding and problem-solving.<br><br>💻 I enjoy working on a diverse range of projects, from web development to data analysis and machine learning, with a particular focus on solving real-world problems and automating tasks to improve efficiency.<br><br>🌱 Constantly learning and exploring new technologies to enhance my skills and broaden my horizons.<br><br>🚀 I believe in the power of collaboration and open-source contributions to make a positive impact on the world.<br><br>📫 Feel free to connect with me on <a href="" target="_blank">LinkedIn</a> or check out my portfolio at </h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h1 align="left">Contact with me</h1>
+<h1 align="left">Connect with me</h1>
 
 <div align="left">
   <a href="instagram" target="_blank">
