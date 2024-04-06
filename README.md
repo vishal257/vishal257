@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://iconscout.com/svg-editor?state=XQAAAALVAAAAAAAAAABt__34xfyFCKftZ4F6qE413lB6kjfsh2-N1QXny9nmIjmGO3j_YiUu94zaJQYfCkbwMOv2NNmIcAiMRy-ogX5umTA03KviJRoksvF0iyMouKNHRrDHvFfL2jShfovaQNJbKmtK50vpuKoA37iFcRlXk4XaCzfl1HwhZ_sL6wYQBs7fTXtb2vT8S9qld8v8cqc6yYfbLGESA749d5vVTubNy6ihgpY-i-RoZnl1NiIyzYj3WyvyxBz3xv-horUpB_qCfYA " height="50" alt="express logo"  />
+  <img src="https://raw.githubusercontent.com/vishal257/vishal257/main/assets/express.svg" height="50" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
