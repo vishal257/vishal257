@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello there! I'm Vishal, a passionate Web Developer with a love for coding and problem-solving.<br><br>💻 I enjoy working on a diverse range of projects, from web development to data analysis and machine learning, with a particular focus on solving real-world problems and automating tasks to improve efficiency.<br><br>🌱 Constantly learning and exploring new technologies to enhance my skills and broaden my horizons.<br><br>🚀 I believe in the power of collaboration and open-source contributions to make a positive impact on the world.<br><br>📫 Feel free to connect with me on <a href="" target="_blank">LinkedIn</a> or check out my portfolio at </h2>
+<h2 align="left">👋 Hello there! I'm Vishal, a passionate Web Developer with a love for coding and problem-solving.<br><br>💻 I enjoy working on a diverse range of projects, from web development to data analysis and machine learning, with a particular focus on solving real-world problems and automating tasks to improve efficiency.<br><br>🌱 Constantly learning and exploring new technologies to enhance my skills and broaden my horizons.<br><br>🚀 I believe in the power of collaboration and open-source contributions to make a positive impact on the world.<br><br>📫 Feel free to connect with me on <a href="http://www.linkedin.com/in/vishal-4a3724289" target="_blank">LinkedIn</a> or check out my <a href="https://vishal257.github.io/portfolio/index.html" target="_blank">Portfolio</a></h2>
 
 ###
 
@@ -54,19 +54,19 @@
 <h1 align="left">Connect with me</h1>
 
 <div align="left">
-  <a href="instagram" target="_blank">
+  <a href="https://www.instagram.com/vishal.webengg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="discord" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="gmail.com" target="_blank">
+  <a href="vishal.webengg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linked" target="_blank">
+  <a href="http://www.linkedin.com/in/vishal-4a3724289" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="twitter" target="_blank">
+  <a href="https://twitter.com/Vishal_webengg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
